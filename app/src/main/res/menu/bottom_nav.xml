@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/article"
+        android:icon="@drawable/article"
+        android:title="@string/first_tab"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/calc"
+        android:icon="@drawable/calculator"
+        android:title="@string/second_tab"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/convertor"
+        android:icon="@drawable/convertor"
+        android:title="@string/three_tab"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/contacts"
+        android:title="@string/fourth_tab"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/home"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>

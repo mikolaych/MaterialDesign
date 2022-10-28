@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material design</string>
+    <string name="first_tab">Справочник</string>
+    <string name="second_tab">Калькулятор</string>
+    <string name="three_tab">Конвертор</string>
+    <string name="fourth_tab">Контакты</string>
+    <string name="home">Домой</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
